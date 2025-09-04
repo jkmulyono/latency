@@ -8,10 +8,10 @@
 
    // Create a connection to the database
    const connection = mysql.createConnection({
-    host: '127.0.0.1',
-    user: 'rooteews',
-    password: 'eews2022',
-    database: 'latency'
+       host: '',
+       user: '',
+       password: '',
+       database: ''
    });
 
    // Connect to the database
